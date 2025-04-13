@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"50d5f4ac4f0466b6","type":"text","text":"前端知识","x":-440,"y":-150,"width":250,"height":60},
+		{"id":"803d56ec7d390dc0","type":"text","text":"CSS","x":-80,"y":-180,"width":250,"height":60},
+		{"id":"a96b7a31c3c123ef","type":"text","text":"JavaSpcrit","x":-120,"y":-60,"width":250,"height":60},
+		{"id":"8613f5d13a437759","type":"text","text":"后端知识","x":-440,"y":120,"width":250,"height":60},
+		{"id":"c577505e030772fa","type":"text","text":"Django","x":-80,"y":60,"width":250,"height":60},
+		{"id":"ebf4b8be5185547a","type":"text","text":"Python","x":-80,"y":180,"width":250,"height":60},
+		{"id":"8054b79964d87014","type":"text","text":"HTMl\n","x":-80,"y":-280,"width":250,"height":60},
+		{"id":"efff40083fa5498d","x":300,"y":-180,"width":250,"height":60,"type":"text","text":"BootStrap\n"},
+		{"id":"7e8debf89291de75","type":"text","text":"","x":260,"y":-275,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"863b0911c455abfc","fromNode":"50d5f4ac4f0466b6","fromSide":"right","toNode":"8054b79964d87014","toSide":"left"},
+		{"id":"331817a05a92a30a","fromNode":"50d5f4ac4f0466b6","fromSide":"right","toNode":"803d56ec7d390dc0","toSide":"left"},
+		{"id":"eb618d2c40f01519","fromNode":"50d5f4ac4f0466b6","fromSide":"right","toNode":"a96b7a31c3c123ef","toSide":"left"},
+		{"id":"10f6a65c6d27d20a","fromNode":"8613f5d13a437759","fromSide":"right","toNode":"c577505e030772fa","toSide":"left"},
+		{"id":"2cdff23bb2750e81","fromNode":"8613f5d13a437759","fromSide":"right","toNode":"ebf4b8be5185547a","toSide":"left"},
+		{"id":"e7f81d850196452e","fromNode":"8054b79964d87014","fromSide":"right","toNode":"7e8debf89291de75","toSide":"left"},
+		{"id":"8693640f9bd3beea","fromNode":"803d56ec7d390dc0","fromSide":"right","toNode":"efff40083fa5498d","toSide":"left"}
+	]
+}
