@@ -169,8 +169,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,8 +259,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c2ed1e9535375d09",
+  "active": "0772f164c45d9695",
   "lastOpenFiles": [
+    "add.txt",
+    "新建 文本文档.txt",
     "A_introduction/架构图.md",
     "A_introduction/plugins.md",
     "A_introduction/tables.md",
@@ -293,7 +294,6 @@
     "Back End/Ajax",
     "A_introduction/project/用户登录.md",
     "A_introduction/project",
-    "Back End/Django/Install.md",
     "A_introduction/finished_instance/verison logs",
     "Pasted image 20250327200147.png",
     "Pasted image 20250327194120.png",
@@ -309,7 +309,6 @@
     "未命名.canvas",
     "A_introduction/finished_instance",
     "Back End/python/log",
-    "Back End/python",
     "思维导图.canvas"
   ]
 }
