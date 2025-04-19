@@ -105,12 +105,14 @@
             "id": "cce7c2bd9656a9c6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-22 09.29.25.excalidraw.md"
+                "file": "Back End/Django/Install.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-22 09.29.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "Install"
             }
           }
         ],
@@ -146,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Deepseek3b",
+                "query": "api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +169,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,37 +260,37 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cce7c2bd9656a9c6",
+  "active": "c2ed1e9535375d09",
   "lastOpenFiles": [
+    "Back End/Django/Django页面多表单提交处理方法.md",
+    "Back End/Django/django overview.md",
+    "A_introduction/tables.md",
+    "A_introduction/plugins.md",
+    "A_introduction/articles.md",
+    "A_introduction/架构图.md",
+    "A_introduction/finished_instance/verison logs/1.1.md",
+    "A_introduction/finished_instance/verison logs/1.0.1.md",
+    "A_introduction/finished_instance/verison logs/1.md",
     "Tool/Excalidraw/Drawing 2025-03-10 08.29.08.excalidraw.md",
     "Tool/Excalidraw/Drawing 2025-03-09 17.09.13.excalidraw.md",
+    "Front End/other/注释.md",
+    "Front End/Bootstrap/BootStrap.md",
+    "Front End/Bootstrap/依赖.md",
+    "Back End/MySQL/mysql.md",
+    "Back End/MySQL/intr.md",
+    "Back End/flask/flask.md",
+    "Back End/python/log/1.dict&set.md",
+    "Excalidraw/Drawing 2025-03-22 09.29.25.excalidraw.md",
+    "Back End/MySQL/work_bench/MySQL Workbench使用.md",
+    "A_introduction/project/用户登录.md",
+    "A_introduction/技术栈.md",
     "some_error/1.document.createElement('')使用错误.md",
     "some_error/2.bootstrap导入错误.md",
     "some_error/3.MySQL-ERROR1045无法启动问题.md",
     "some_error/4.POST请求,不能直接用网址访问.md",
-    "some_error/5.清空浏览器JavaScript缓存.md",
-    "some_error/6.mysql 时区问题.md",
-    "Front End/HTML/HTMl.md",
-    "Front End/echart/echart.md",
-    "A_introduction/finished_instance/verison logs/1.0.1.md",
-    "A_introduction/finished_instance/verison logs/1.md",
-    "A_introduction/finished_instance/verison logs/1.0.2.md",
-    "A_introduction/finished_instance/verison logs/1.1.md",
-    "A_introduction/plugins.md",
-    "A_introduction/tables.md",
-    "A_introduction/articles.md",
-    "A_introduction/架构图.md",
-    "A_introduction/技术栈.md",
-    "Back End/MySQL/intr.md",
-    "Back End/MySQL/mysql.md",
-    "Front End/Bootstrap/BootStrap.md",
     "Pasted image 20250327190040.png",
     "photo/Pasted image 20250321130240.png",
     "photo/Pasted image 20250321214827.png",
-    "Front End/Javascript/overview.md",
-    "Front End/Javascript/Javascript.md",
-    "Excalidraw/Drawing 2025-03-20 21.15.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-12 23.05.43.excalidraw.md",
     "123.txt",
     "新建 文本文档.txt",
     "add.txt",
