@@ -107,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back End/Django/Install.md",
+                "file": "some_error/3.MySQL-ERROR1045无法启动问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install"
+              "title": "3.MySQL-ERROR1045无法启动问题"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "api",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +169,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,8 +259,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c2ed1e9535375d09",
+  "active": "cce7c2bd9656a9c6",
   "lastOpenFiles": [
+    "思维导图.canvas",
+    "some_error/3.MySQL-ERROR1045无法启动问题.md",
+    "some_error/2.bootstrap导入错误.md",
+    "some_error/1.document.createElement('')使用错误.md",
+    "Tool/img/Pasted image 20250327190057.png",
+    "Tool/img/Pasted image 20250327190200.png",
+    "Tool/img/Pasted image 20250412230625.png",
+    "Tool/img/Pasted image 20250412225913.png",
+    "Tool/img/Pasted image 20250327200147.png",
+    "Tool/img/Pasted image 20250327194120.png",
+    "Tool/img/Pasted image 20250327191310.png",
+    "Tool/img/Pasted image 20250327190956.png",
+    "Tool/img/Pasted image 20250327190040.png",
+    "Tool/img/Pasted image 20250322184718.png",
+    "Tool/img",
+    "Back End/Django/Install.md",
     "Back End/Django/Django页面多表单提交处理方法.md",
     "Back End/Django/django overview.md",
     "A_introduction/tables.md",
@@ -283,33 +298,16 @@
     "Excalidraw/Drawing 2025-03-22 09.29.25.excalidraw.md",
     "Back End/MySQL/work_bench/MySQL Workbench使用.md",
     "A_introduction/project/用户登录.md",
-    "A_introduction/技术栈.md",
-    "some_error/1.document.createElement('')使用错误.md",
-    "some_error/2.bootstrap导入错误.md",
-    "some_error/3.MySQL-ERROR1045无法启动问题.md",
-    "some_error/4.POST请求,不能直接用网址访问.md",
-    "Pasted image 20250327190040.png",
-    "photo/Pasted image 20250321130240.png",
-    "photo/Pasted image 20250321214827.png",
     "123.txt",
     "新建 文本文档.txt",
     "add.txt",
-    "Pasted image 20250412230625.png",
-    "Pasted image 20250412225913.png",
     "Front End/echart",
     "Back End/python/echart图表",
     "Back End/Ajax",
     "A_introduction/project",
     "A_introduction/finished_instance/verison logs",
-    "Pasted image 20250327200147.png",
-    "Pasted image 20250327194120.png",
-    "Pasted image 20250327191310.png",
-    "Pasted image 20250327190956.png",
-    "Pasted image 20250327190200.png",
     "Back End/MySQL/course_learn",
-    "Back End/Django/未命名",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "思维导图.canvas"
+    "未命名.canvas"
   ]
 }
