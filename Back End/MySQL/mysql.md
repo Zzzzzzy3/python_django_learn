@@ -174,3 +174,30 @@ conn.commit()
 cursor.close()  
 conn.close()
 ```
+
+在数据库中，将一个表中的所有记录复制到另一个表，可以通过 SQL 查询实现。具体的实现方式取决于两个表的结构是否完全相同，以及是否需要进行某些转换或过滤。
+
+以下是几种常见的场景和实现方法：
+
+### **场景 1：两个表结构完全相同**
+
+如果目标表和源表的结构完全相同（字段名、字段类型、字段顺序都一致），可以直接使用 `INSERT INTO ... SELECT` 语句。
+
+#### 示例：
+
+假设你有两个表 `source_table` 和 `target_table`，它们的结构完全相同，你可以这样复制数据：
+
+
+```sql
+INSERT INTO target_table (column1, column2, column3)
+SELECT column1, column2, column3
+FROM source_table;
+```
+
+如果目标表和源表的字段顺序和名称完全一致，甚至可以省略字段名：
+
+
+```sql
+INSERT INTO target_table
+SELECT * FROM source_table;
+```

@@ -9,3 +9,7 @@ ___
 ***一篇关于CDN介绍的文章***
 
 [什么是CDN？它解决了什么难题？5分钟让你明明白白！-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1779335)
+
+
+***一篇关于cursor.description介绍的文章***
+[pymysql获取要查询的字段名（列名）_cursor.description-CSDN博客](https://blog.csdn.net/wangxingfan316/article/details/80884325)
