@@ -13,3 +13,8 @@ ___
 
 ***一篇关于cursor.description介绍的文章***
 [pymysql获取要查询的字段名（列名）_cursor.description-CSDN博客](https://blog.csdn.net/wangxingfan316/article/details/80884325)
+
+
+
+***一篇关于pip freeze的文章***
+[【Python】使用 pip freeze 的完整指南_pip freeze详细用法-CSDN博客](https://blog.csdn.net/qq_35240081/article/details/140910258)
